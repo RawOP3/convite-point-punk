@@ -1,1 +1,46 @@
-![2º AVISO](https://github.com/user-attachments/assets/0cb974d0-77d5-4ae2-abe4-df1364da532c)
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Convite Point Punk</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    img {
+      width: 100%;
+      max-width: 600px;
+      border: 4px solid #fff;
+      border-radius: 8px;
+      transition: transform 0.3s;
+    }
+    img:hover {
+      transform: scale(1.02);
+      cursor: pointer;
+    }
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎸 Point Punk - Chega Junto!</h1>
+
+  <a href="https://maps.app.goo.gl/zKuRJmcLMDkmkE5k7" target="_blank">
+    <img src="point_punk_cartaz.png" alt="Cartaz do evento Point Punk">
+  </a>
+
+  <p><strong>📅 Sábado, 2/8 às 15h</strong></p>
+  <p><strong>📍 Local:</strong> <a href="https://maps.app.goo.gl/zKuRJmcLMDkmkE5k7" target="_blank" style="color: #0ff;">Clique aqui para abrir o mapa</a></p>
+  <p>🎶 Música ao vivo | Zines | Camisas | Resistência</p>
+  <p><em>Nada de modinha, aqui é raiz. Se é punk, cola com a gente.</em></p>
+
+</body>
+</html>
+
